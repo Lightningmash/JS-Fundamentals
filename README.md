@@ -1,9 +1,6 @@
 # JS-Fundamentals
 Assesments
 
-# JS-Fundamentals
-Assesments
-
 **Tasks**
 0. First constant, first print
 
